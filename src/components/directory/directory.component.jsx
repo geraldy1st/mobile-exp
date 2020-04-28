@@ -58,14 +58,14 @@ class Directory extends React.Component {
           linkUrl: 'motorola',
         },
         {
-          title: 'one plus',
+          title: 'xiaomi',
           logo:
-            'https://static.swappa.com/static/images/brands/logo_btn_oneplus.svg',
+            'https://as01.epimg.net/showroom/imagenes/2019/08/10/portada/1565444005_544487_1565446598_noticia_normal_recorte1.jpg',
 
           imageUrl:
-            'https://www.androidpolice.com/wp-content/uploads/2019/12/Every-other-OnePlus-phone.jpg',
+            'https://www.journaldugeek.com/content/uploads/2020/04/rn8pro-image-1-640x467.jpg',
           id: 6,
-          linkUrl: 'one-plus',
+          linkUrl: 'xiaomi',
         },
       ],
     };
